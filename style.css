@@ -1,0 +1,28 @@
+*{
+  text-align: center;
+}
+.header {
+ background: red;
+}
+.block-1 {
+  background: green;
+}
+.small-blocks {
+  display: flex;
+  
+}
+.block-2 {
+  background: blue;
+  width: 33.333%;
+}
+.block-3 {
+  background: yellow;
+  width: 33.333%;
+}
+.block-4 {
+  background: orange;
+  width: 33.333%;
+}
+.footer {
+  background: purple;
+}
